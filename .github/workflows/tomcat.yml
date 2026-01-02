@@ -4,7 +4,7 @@ on:
 
   push:
 
-    branches: [ rishi ]
+    branches: [ main ]
 
   workflow_dispatch:
 
